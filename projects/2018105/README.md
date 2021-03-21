@@ -29,3 +29,9 @@
   Για την δημιουργία του βιογραφικού έκανα fork στο πρώτο από τα διαθέσιμα παραδείγματα δηλαδή στο online-cv.Στη συνέχεια έκανα όλες τις απαραίτητες αλλαγές και έβαλα τα δικά μου  προσωπικά στοιχεία. 
   Link για το βιογραφικό: https://DimitrisTzer.github.io/online-cv/
   Link για τον κώδικα της ιστοσελίδας: https://github.com/DimitrisTzer/online-cv
+  
+  
+ Παραδοτέο 4:
+  
+  Για το 4ο παραδοτέο επέλεξα να κάνω την άσκηση performance monitoring απο την κατηγορία Software.
+  Link στο asciinema: https://asciinema.org/a/400892
